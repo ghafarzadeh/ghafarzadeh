@@ -14,11 +14,11 @@ And trying to be a good remote team player with the knowledge of teamwork and ho
 <p><strong><h3>Statics</h3></strong>
 <div class="row">
   <div class="col">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghafarzadeh&show_icons=true&locale=en&layout=compact" alt="habib-ghafarzadeh" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ghafarzadeh&show_icons=true&locale=en&layout=compact" alt="habib-ghafarzadeh" />
   </div>
   <br/>
   <div class="col">
-      <img src="https://github-readme-stats.vercel.app/api?username=ghafarzadeh&show_icons=true&locale=en" alt="habib-ghafarzadeh" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ghafarzadeh&show_icons=true&locale=en" alt="habib-ghafarzadeh" />
   </div>
 </div>
 

@@ -17,8 +17,5 @@ And trying to be a good remote team player with the knowledge of teamwork and ho
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ghafarzadeh&show_icons=true&locale=en&layout=compact" alt="habib-ghafarzadeh" />
   </div>
   <br/>
-  <div class="col">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ghafarzadeh&show_icons=true&locale=en" alt="habib-ghafarzadeh" />
-  </div>
 </div>
 
